@@ -2,7 +2,7 @@
 
 Welcome to Galactic Side Project Month! We'll be working on our own side projects through the month, using GaSiProMo as a way to stay motivated and share what we're doing.
 
-This doc explains how to join, share updates, and keep in touch with other people doing it. If you have any questions, [email me](mailto:raj@codelympics.io)!
+This doc explains how to get started and how to keep in touch with other people through the month. If you have any questions, [email me](mailto:raj@codelympics.io)!
 
 * [Set up](#setup)
 
@@ -40,16 +40,16 @@ I'll keep working in my usual project directory. But now when I push updates, I 
 
 ##Share progress with a weekly log<a id = "log"></a>
 
-To share progress on your project, add updates to your README, so people can see the latest status on the project gallery.
+To share progress on your project, you can keep a weekly log on your README, so people can see the latest status on the project gallery.
 
-**You should try to share an update on your project by Thursday each week**. Because I'll be sending out an email at the end of the week for people to check out GaSiProMo projects.
+**You should try to share an update on your project by Thursday each week**. I'll be sending out an email at the end of the week for people to check out GaSiProMo projects.
 
 I set up my README for For or Not as an [example](https://github.com/webmasterraj/FogOrNot/blob/master/README.md). 
 
 * I put the latest updates at the top, so that people don't have to scroll down to find them.
 * I also added a way for people to give me feedback too (I created a Reddit thread on [/r/codelympics](http://www.reddit.com/r/codelympics) to make feedback on my project public, but you could also use your email or another private mode).
 
-(If you mirrored an existing project, you will need to add the weekly updates to the original README. If you don't want to do that, then feel free to keep working on your project separately, i.e. not mirrored, and use the GaSiProMo README separately to share updates). 
+(If you mirrored an existing project, you will need to add the log to the original README. If you don't want to do that, then feel free to keep working on your project separately, i.e. not mirrored, and use the GaSiProMo README separately to share updates). 
 
 ##Chat rooms for GaSiProMo<a id = "touch"></a>
 
@@ -62,7 +62,7 @@ You can post stuff here too.
 
 ##DevPost
 
-[DevPost](http://devpost.com/) has set up the #gasipromo tag for people who want to share their projects there too. Here's how to do it:
+[DevPost](http://devpost.com/) has set up a #gasipromo tag for people who want to share their projects there too. Here's how to do it:
 
 1. Set up an account on [Devpost.com](http://devpost.com/)
 2. From your portfolio of the home page click “Start a Project” 
