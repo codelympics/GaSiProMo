@@ -46,9 +46,10 @@ To share progress on your project, you can keep a weekly log on your README, so 
 
 I set up my README for For or Not as an [example](https://github.com/webmasterraj/FogOrNot/blob/master/README.md). 
 
-* I put the latest updates at the top, so that people don't have to scroll down to find them. 
+* Put the latest updates at the top, so that people don't have to scroll down to find them. 
 * I also like writing longer entries. But I didn't want to clutter the readme, so I'm keeping the log entries on the readme short and linking to longer versions in a separate `project_logs` folder.
-* I'd also suggest having a way for people to give you feedback. I created a Reddit thread on [/r/codelympics](http://www.reddit.com/r/codelympics) for public feedback, but you could also use your email or another private mode.
+* Have a way for people to give you feedback. I created a Reddit thread on [/r/codelympics](http://www.reddit.com/r/codelympics) for public feedback, but you could also use your email or another private mode.
+* If you're looking for an easy way to keep a project log, check out [jrnl](https://maebert.github.io/jrnl/), a little tool that lets you keep a journal straight from the command line. 
 
 (If you mirrored an existing project, you will need to share the updates on your original README. If you don't want to do that, then feel free to keep working on your project separately, i.e. not mirrored, and use the GaSiProMo readme as a separate project log to share updates). 
 
